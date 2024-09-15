@@ -1,2 +1,2 @@
-# milyoner
-odev_20
+# Ali Günlü Ödev_20
+### Milyoner uygulaması
